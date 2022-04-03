@@ -1,5 +1,5 @@
 # Apahe-Beam Course Materials
-This is the Java materials for Udemy course [Learn Practical Apache Beam in Java | BigData framework](https://www.udemy.com/course/learn-practical-apache-beam-in-java/), I used [IntelliJ](https://www.jetbrains.com/idea/) IDE, I orgenized the project with Java modules, each section from the course represented by Java module, I found it more comfortable, have a fun!
+This is a Java Maven project, it is the practical materials for Udemy course [Learn Practical Apache Beam in Java | BigData framework](https://www.udemy.com/course/learn-practical-apache-beam-in-java/), I used [IntelliJ](https://www.jetbrains.com/idea/) IDE, I orgenized the project with Java modules, each section from the course represented by Java module, I found it more comfortable, have a fun!
 
 ### The Course Sections:
 * Section 1 - Apache Beam introduction - No Java materials.
