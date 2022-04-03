@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="section5" />
+        <module name="section6" />
+        <module name="section7" />
+        <module name="section8" />
+        <module name="section9" />
+        <module name="section1" />
+        <module name="section2" />
+        <module name="section3" />
+        <module name="section4" />
+        <module name="section10" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="apache-beam-course" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
